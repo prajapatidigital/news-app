@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "TF1 INFO",
+      "title": "JO 2024 : derniers jours pour faire son stock de tickets sans majoration dans les transports d'Île-de-France - TF1 INFO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy50ZjFpbmZvLmZyL2pldXgtb2x5bXBpcXVlcy9qby0yMDI0LWRlcm5pZXJzLWpvdXJzLXBvdXItZmFpcmUtc29uLXN0b2NrLWRlLXRpY2tldHMtc2Fucy1tYWpvcmF0aW9uLWRhbnMtbGVzLXRyYW5zcG9ydHMtZC1pbGUtZGUtZnJhbmNlLTIzMDg4MjAuaHRtbNIBogFodHRwczovL3d3dy50ZjFpbmZvLmZyL2FtcC9qZXV4LW9seW1waXF1ZXMvam8tMjAyNC1kZXJuaWVycy1qb3Vycy1wb3VyLWZhaXJlLXNvbi1zdG9jay1kZS10aWNrZXRzLXNhbnMtbWFqb3JhdGlvbi1kYW5zLWxlcy10cmFuc3BvcnRzLWQtaWxlLWRlLWZyYW5jZS0yMzA4ODIwLmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-16T06:00:06+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Léa Bello, Marceau Bretonnier, Mahé Richard-Schmidt",
+      "title": "Les méthodes de la SNCF pour cacher une partie des retards de ses trains",
+      "description": "Selon les chiffres de la SNCF, seulement 12,5 % des TGV sont arrivés en retard en 2023. La même année, l’Autorité de régulation des transports comptabilisait 23,3 % de retards. « Le Monde » a enquêté et découvert les méthodes de comptage avantageuses du group…",
+      "url": "https://www.lemonde.fr/economie/article/2024/07/11/les-methodes-de-la-sncf-pour-camoufler-une-partie-de-ses-retards_6248470_3234.html",
+      "urlToImage": "https://img.lemde.fr/2024/07/04/0/266/2454/1636/1440/960/60/0/b0aa8dd_1720088604403-thumbnail-sncf-retards-banniere-copie.png",
+      "publishedAt": "2024-07-11T03:45:02Z",
+      "content": "La différence est spectaculaire. Dun côté, les données de la SNCF affirment que seulement un TGV sur huit est arrivé en retard en 2023. De lautre, lAutorité de régulation des transports (ART) évoque … [+1225 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "John Fanta, Michael Cohen",
+      "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+      "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+      "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-29T20:59:30Z",
+      "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    }
+  ]
+}
