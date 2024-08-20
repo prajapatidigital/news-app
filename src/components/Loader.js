@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 import "../style/loader.css"
 
-export class Loader extends Component {
-  render() {
+const Loader = ()=>{
+  
     return (
       <div>
 
@@ -205,7 +205,7 @@ export class Loader extends Component {
 
       </div>
     )
-  }
+  
 }
 
 export default Loader
