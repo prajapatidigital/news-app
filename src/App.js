@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react'
+import React, {  useState } from 'react'
 import Navbar from './components/Navbar'
 import News from './components/News'
 // import Loader from './components/Loader'
